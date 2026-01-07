@@ -1,4 +1,4 @@
-![](https://github.com/MicroxOndas/QALS/assets/QALS.jpg)
+![](https://github.com/MicroxOndas/QALS/blob/main/assets/QALS.jpg)
 
 
 # QALS - Quantum Algorithms Learning Suite
@@ -84,8 +84,8 @@ pip install uv
 
 2. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/qals.git
-cd qals
+git clone https://github.com/MicroxOndas/QALS.git
+cd QALS
 ```
 
 3. **Install dependencies with uv**
@@ -475,8 +475,6 @@ Created as an educational tool for quantum computing enthusiasts.
 ## 📞 Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/MicroxOndas/QALS/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/MicroxOndas/QALS/discussions)
-- **Email**: your.email@example.com
 
 ---
 
@@ -495,7 +493,7 @@ Created as an educational tool for quantum computing enthusiasts.
 
 ### Community Requests
 
-Want a feature? Open an issue or discussion!
+Want a feature? Open an issue!
 
 ---
 
